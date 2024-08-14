@@ -20,6 +20,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=Miranda&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=Wi-Fi-Grabber&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://raw.githubusercontent.com/vinicezariodev/vinicezariodev/output/snake.svg" alt="Snake animation" />
 
-###
