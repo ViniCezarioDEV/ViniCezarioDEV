@@ -1,8 +1,12 @@
 # Hi Visitor. I'm Vinicius Cezario
 
+<div align="left">
+  <a href="https://github.com/vinicezariodev">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl"/>
+</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl)
+
 
 <div style="display: inline_block"><br>
   <p>⁕ Languages Used ⁕</p>
@@ -21,7 +25,8 @@
 
 ## Two of my best projects
 <div style="text-align: center;">
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" style="display: inline-block; width: 45%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=Wi-Fi-Grabber&theme=holi" alt="Imagem 2" style="display: inline-block; width: 45%;"/>
+  <a href="https://github.com/ViniCezarioDEV/Portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" style="display: inline-block; width: 45%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=Wi-Fi-Grabber&theme=holi" alt="Imagem 2" style="display: inline-block; width: 45%;"/>
+  </a>
 </div>
