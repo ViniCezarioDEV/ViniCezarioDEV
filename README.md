@@ -3,6 +3,7 @@
 <div align="left">
   <a href="https://github.com/vinicezariodev">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
+    &nbsp;&nbsp;&nbsp;
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl"/>
 </div>
 
@@ -31,10 +32,15 @@
 </div>
 
 
-## Two of my best projects
-<div style="text-align: center;">
-  <a href="https://github.com/ViniCezarioDEV/Portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" style="display: inline-block; width: 45%;"/>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=Wi-Fi-Grabber&theme=holi" alt="Imagem 2" style="display: inline-block; width: 45%;"/>
+## Two pieces of me
+<p align="left">
+  <a href="https://github.com/ViniCezarioDEV/Miranda">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" />
   </a>
-</div>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; <!-- Adiciona 5 espaços entre as imagens -->
+  <a href="https://github.com/ViniCezarioDEV/Ariel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=ariel&theme=holi" alt="Imagem 2" />
+  </a>
+</p>
+
+
