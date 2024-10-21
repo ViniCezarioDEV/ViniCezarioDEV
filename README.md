@@ -37,7 +37,7 @@
   <a href="https://github.com/ViniCezarioDEV/Miranda">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; <!-- Adiciona 5 espaços entre as imagens -->
+  &nbsp;&nbsp;&nbsp; <!-- Adiciona 5 espaços entre as imagens -->
   <a href="https://github.com/ViniCezarioDEV/Ariel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=ariel&theme=holi" alt="Imagem 2" />
   </a>
