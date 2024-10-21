@@ -1,5 +1,7 @@
 # Hi Visitor. I'm Vinicius Cezario
 
+<img src="https://m.media-amazon.com/images/I/61mz7dvq9YL._AC_UF894,1000_QL80_.jpg" style="width: 50px; height: 50px; text-align: center;">
+
 <div align="left">
   <a href="https://github.com/vinicezariodev">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
