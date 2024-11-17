@@ -1,6 +1,4 @@
-# Hi Visitor. I'm Vinicius Cezario
-
-<img src="https://m.media-amazon.com/images/I/61mz7dvq9YL._AC_UF894,1000_QL80_.jpg" style="width: 50px; height: 50px; text-align: center;">
+# <img src="https://m.media-amazon.com/images/I/61mz7dvq9YL._AC_UF894,1000_QL80_.jpg" style="width: 50px; height: 50px; text-align: center;"></a> Hi Visitor. I'm Vinicius Cezario <a href="#">
 
 <div align="left">
   <a href="https://github.com/vinicezariodev">
@@ -39,10 +37,11 @@
   <a href="https://github.com/ViniCezarioDEV/Miranda">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" />
   </a>
-  &nbsp;&nbsp;&nbsp; <!-- Adiciona 5 espaços entre as imagens -->
+  &nbsp;&nbsp;&nbsp; <!-- Adiciona 3 espaços entre as imagens -->
   <a href="https://github.com/ViniCezarioDEV/Ariel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=ariel&theme=holi" alt="Imagem 2" />
   </a>
 </p>
 
 
+<a href="#"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' align="center" height="90"></a>
