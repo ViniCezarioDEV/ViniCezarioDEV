@@ -1,16 +1,21 @@
-# <img src="https://m.media-amazon.com/images/I/61mz7dvq9YL._AC_UF894,1000_QL80_.jpg" style="width: 50px; height: 50px; text-align: center;"></a> Hi Visitor. I'm Vinicius Cezario <a href="#">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=header"/>
 
-<div align="left">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Vinicius+Cezario;I'm+Back-End+programmer;And+another+Star+Wars+Fan;Be+Welcome!)](https://git.io/typing-svg)
+
+<div align="center">
   <a href="https://github.com/vinicezariodev">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
+  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
     
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl"/>
+  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl"/>
+  </a>
 </div>
 
 
 
-<div style="display: inline_block"><br>
-  <p>⁕ Technologies Used ⁕</p>
+<div style="display: inline_block" align="center"><br>
+  
+  ### ⁕ Technologies Used ⁕
+  
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,16 +31,21 @@
 
   ##
  
-<div align="left"> 
-  <a href="https://www.youtube.com/@typcals" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ovinasdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align="center"> 
+
+  ### ⁕ Contact me ⁕
+  
   <a href = "mailto:viniciusamcezario@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vinicius-cezario-9b3013260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/vinicius-cezario-9b3013260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@typcals" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 
-## Two pieces of me
-<p align="left">
+
+<div align="center">
+
+  ## ⁕ Two pieces of me ⁕
+  
   <a href="https://github.com/ViniCezarioDEV/Miranda">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" />
   </a>
@@ -43,7 +53,10 @@
   <a href="https://github.com/ViniCezarioDEV/Ariel">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=ariel&theme=holi" alt="Imagem 2" />
   </a>
-</p>
+</div>
 
+&nbsp;
+<div align="center" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
+&nbsp;
 
-<a href="#"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' align="center" height="90"></a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=footer"/>
