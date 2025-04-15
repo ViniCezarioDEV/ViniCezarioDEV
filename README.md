@@ -50,8 +50,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=miranda&theme=holi" alt="Imagem 1" />
   </a>
   &nbsp;&nbsp;&nbsp; <!-- Adiciona 3 espaços entre as imagens -->
-  <a href="https://github.com/ViniCezarioDEV/Ariel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=ariel&theme=holi" alt="Imagem 2" />
+  <a href="https://github.com/ViniCezarioDEV/Zenlek-Console">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=zenlek-console&theme=holi" alt="Imagem 2" />
   </a>
 </div>
 
