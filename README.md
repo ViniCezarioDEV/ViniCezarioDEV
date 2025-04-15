@@ -27,6 +27,8 @@
   <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Flask" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+  <img align="center" alt="Bash" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  
 </div>
 
   ##
