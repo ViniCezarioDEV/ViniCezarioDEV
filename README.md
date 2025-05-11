@@ -57,6 +57,13 @@
   </a>
 </div>
 
+## ⁕ BADGES ⁕
+
+<div align="center">
+  <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 60px; height: 65px">
+</div>
+
+
 &nbsp;
 <div align="center" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
 &nbsp;
