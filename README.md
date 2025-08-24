@@ -62,10 +62,11 @@
 ## ⁕ Badges ⁕
 
 <img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 60px; height: 65px">
+<img src="BADGE.png" style="width: 70px; height: 75px">
 
 </div>
 &nbsp;
-<div align="center" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
+<div align="center" display="" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
 &nbsp;
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=footer"/>
