@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Vinicius+Cezario;I'm+Back-End+programmer;And+another+Star+Wars+Fan;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Vinicius+Cezario;I'm+a+Cyber+Security+studant;And+another+Star+Wars+Fan;Be+Welcome!)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/vinicezariodev">
