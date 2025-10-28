@@ -16,18 +16,18 @@
   
   ### ⁕ Technologies Used ⁕
   
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NodeJS" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Spring" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-  <img align="center" alt="Java" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Flask" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
-  <img align="center" alt="Bash" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Js" height="40" width="50" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="React" height="40" width="50" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="MySQL" height="50" width="60" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Spring" height="50" width="60" src="https://skillicons.dev/icons?i=spring">
+  <img align="center" alt="Java" height="50" width="60" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Linux" height="40" width="50" src="https://skillicons.dev/icons?i=linux">
+  <img align="center" alt="Linux" height="40" width="50" src="https://skillicons.dev/icons?i=kali">
+  <img align="center" alt="Bash" height="50" width="60" src="https://skillicons.dev/icons?i=bash">
+  <img align="center" alt="Bash" height="50" width="60" src="https://skillicons.dev/icons?i=windows">
   
 </div>
 
