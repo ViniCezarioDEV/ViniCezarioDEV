@@ -2,14 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7699D4&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+Name+is+Vinicius+Cezario;I'm+a+Cyber+Security+studant;And+another+Star+Wars+Fan;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/vinicezariodev">
-  <img width="46%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ViniCezarioDEV&show_icons=true&theme=nightowl"/>
-    
-  <img width="53%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniCezarioDEV&layout=compact&theme=nightowl"/>
-  </a>
-</div>
-
 
 
 <div style="display: inline_block" align="center"><br>
@@ -44,32 +36,27 @@
 
 
 
-<div align="center">
-
-  ## ⁕ A quick visit to my projects ⁕
-  
-  <a href="https://github.com/ViniCezarioDEV/Passwords-Manager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=passwords-manager&theme=holi" alt="Imagem 1" />
-  </a>
-  &nbsp;&nbsp;&nbsp; <!-- Adiciona 3 espaços entre as imagens -->
-  <a href="https://github.com/ViniCezarioDEV/File-Integrity-Monitor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinicezariodev&repo=file-integrity-monitor&theme=holi" alt="Imagem 2" />
-  </a>
-</div>
 
 <div align="center">
 
 ## ⁕ Badges ⁕
 
-<img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 100px; height: 105px">
-<img src="BADGE.png" style="width: 100px; height: 105px">
-<img src="linux-unhatched.png" style="width: 85px; height: 90px">
-<img src="ccna-introduction-to-networks_badge.png" style="width: 85px; height: 90px">
-<img src="python-essentials-1-BADGE.png" style="width: 85px; height: 90px">
+<img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 120px; height: 125px">
+<img src="BADGE.png" style="width: 120px; height: 125px">
+<img src="linux-unhatched.png" style="width: 105px; height: 110px">
+<img src="ccna-introduction-to-networks_badge.png" style="width: 105px; height: 110px">
+<img src="python-essentials-1-BADGE.png" style="width: 105px; height: 110px">
 
 </div>
 &nbsp;
 <div align="center" display="" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
 &nbsp;
+
+
+<div align="center">
+
+### ⁕ Check my Projects below ⁕
+
+</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=654597&height=120&section=footer"/>
