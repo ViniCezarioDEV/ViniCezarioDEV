@@ -61,10 +61,11 @@
 
 ## ⁕ Badges ⁕
 
-<img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 60px; height: 65px">
-<img src="BADGE.png" style="width: 70px; height: 75px">
-<img src="linux-unhatched.png" style="width: 55px; height: 60px">
-<img src="ccna-introduction-to-networks_badge.png" style="width: 55px; height: 60px">
+<img src="https://i.postimg.cc/gc30tpgq/computacaoemnuvem.webp" style="width: 100px; height: 105px">
+<img src="BADGE.png" style="width: 100px; height: 105px">
+<img src="linux-unhatched.png" style="width: 85px; height: 90px">
+<img src="ccna-introduction-to-networks_badge.png" style="width: 85px; height: 90px">
+<img src="python-essentials-1-BADGE.png" style="width: 85px; height: 90px">
 
 </div>
 &nbsp;
