@@ -46,7 +46,7 @@
 <img src="linux-unhatched.png" style="width: 105px; height: 110px">
 <img src="ccna-introduction-to-networks_badge.png" style="width: 105px; height: 110px">
 <img src="python-essentials-1-BADGE.png" style="width: 105px; height: 110px">
-<img src="aws-academy-educator-BADGE.png" style="width: 105px; height: 110px">
+<img src="aws-academy-educator-BADGE.png" style="width: 115px; height: 120px">
 
 </div>
 &nbsp;
