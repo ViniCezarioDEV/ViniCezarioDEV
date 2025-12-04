@@ -48,6 +48,8 @@
 <img src="python-essentials-1-BADGE.png" style="width: 105px; height: 110px">
 <img src="aws-academy-educator-BADGE.png" style="width: 115px; height: 120px">
 
+<hr>
+
 </div>
 &nbsp;
 <div align="center" display="" style="padding:10px;"><img src='https://cdn.worldvectorlogo.com/logos/star-wars-4.svg' height="90"></div>
