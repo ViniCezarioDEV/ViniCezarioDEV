@@ -8,18 +8,18 @@
   
   ### ⁕ Technologies Used ⁕
   
-  <img align="center" alt="Python" height="40" width="50" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="Js" height="40" width="50" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="HTML" height="40" width="50" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="CSS" height="40" width="50" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="React" height="40" width="50" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="MySQL" height="50" width="60" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Spring" height="50" width="60" src="https://skillicons.dev/icons?i=spring">
-  <img align="center" alt="Java" height="50" width="60" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Linux" height="40" width="50" src="https://skillicons.dev/icons?i=linux">
-  <img align="center" alt="Linux" height="40" width="50" src="https://skillicons.dev/icons?i=kali">
-  <img align="center" alt="Bash" height="50" width="60" src="https://skillicons.dev/icons?i=bash">
-  <img align="center" alt="Bash" height="50" width="60" src="https://skillicons.dev/icons?i=windows">
+  <img align="center" alt="Python" height="50" width="50" src="https://skillicons.dev/icons?i=python">
+  <img align="center" alt="Js" height="50" width="50" src="https://skillicons.dev/icons?i=js">
+  <img align="center" alt="HTML" height="50" width="50" src="https://skillicons.dev/icons?i=html">
+  <img align="center" alt="CSS" height="50" width="50" src="https://skillicons.dev/icons?i=css">
+  <img align="center" alt="React" height="50" width="50" src="https://skillicons.dev/icons?i=react">
+  <img align="center" alt="MySQL" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
+  <img align="center" alt="Spring" height="50" width="50" src="https://skillicons.dev/icons?i=spring">
+  <img align="center" alt="Java" height="50" width="50" src="https://skillicons.dev/icons?i=java">
+  <img align="center" alt="Linux" height="50" width="50" src="https://skillicons.dev/icons?i=linux">
+  <img align="center" alt="Linux" height="50" width="50" src="https://skillicons.dev/icons?i=kali">
+  <img align="center" alt="Bash" height="50" width="50" src="https://skillicons.dev/icons?i=bash">
+  <img align="center" alt="Bash" height="50" width="50" src="https://skillicons.dev/icons?i=windows">
   
 </div>
 
@@ -31,7 +31,6 @@
   
   <a href = "mailto:viniciusamcezario@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-cezario-9b3013260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/@typcals" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 
