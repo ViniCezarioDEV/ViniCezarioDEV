@@ -4,23 +4,10 @@
 
 
 
-<div style="display: inline_block" align="center"><br>
-  
-  ### ⁕ Technologies Used ⁕
-  
-  <img align="center" alt="Python" height="50" width="50" src="https://skillicons.dev/icons?i=python">
-  <img align="center" alt="Js" height="50" width="50" src="https://skillicons.dev/icons?i=js">
-  <img align="center" alt="HTML" height="50" width="50" src="https://skillicons.dev/icons?i=html">
-  <img align="center" alt="CSS" height="50" width="50" src="https://skillicons.dev/icons?i=css">
-  <img align="center" alt="React" height="50" width="50" src="https://skillicons.dev/icons?i=react">
-  <img align="center" alt="MySQL" height="50" width="50" src="https://skillicons.dev/icons?i=mysql">
-  <img align="center" alt="Spring" height="50" width="50" src="https://skillicons.dev/icons?i=spring">
-  <img align="center" alt="Java" height="50" width="50" src="https://skillicons.dev/icons?i=java">
-  <img align="center" alt="Linux" height="50" width="50" src="https://skillicons.dev/icons?i=linux">
-  <img align="center" alt="Linux" height="50" width="50" src="https://skillicons.dev/icons?i=kali">
-  <img align="center" alt="Bash" height="50" width="50" src="https://skillicons.dev/icons?i=bash">
-  <img align="center" alt="Bash" height="50" width="50" src="https://skillicons.dev/icons?i=windows">
-  
+<div align="center">
+  <h3>⁕ Technologies Used ⁕</h3>
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,spring,java,linux,kali,bash,windows" />
 </div>
 
   ##
