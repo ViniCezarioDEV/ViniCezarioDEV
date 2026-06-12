@@ -7,7 +7,7 @@
 <div align="center">
   <h3>⁕ Technologies Used ⁕</h3>
   <br>
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,mysql,spring,java,linux,kali,bash,windows" />
+  <img src="https://skillicons.dev/icons?perline=12&i=python,js,html,css,react,mysql,spring,java,linux,kali,bash,windows,fastapi,git,postgres" />
 </div>
 
   ##
